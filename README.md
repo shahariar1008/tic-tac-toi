@@ -1,0 +1,1 @@
+A simple web-based Tic Tac Toe game built with HTML, CSS, and JavaScript. Players take turns marking spaces in a 3x3 grid, aiming to align three of their symbols (X or O) horizontally, vertically, or diagonally. Perfect for casual play and learning basic web development concepts!
